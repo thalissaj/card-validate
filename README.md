@@ -1,6 +1,9 @@
 # Validador de cartão através do Algoritmo de Luhn
 Biblioteca js para validação de cartão
 
+## Funções:
+#### cardValidator()
+
 # Metodos para usar a biblioteca:
 
 Exemplo de uso:
