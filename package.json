@@ -1,6 +1,6 @@
 {
   "name": "thali-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lib for testing card numbers",
   "main": "index.js",
   "directories": {
