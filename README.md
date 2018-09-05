@@ -1,6 +1,9 @@
 # Validador de cartão através do Algoritmo de Luhn
 Biblioteca js para validação de cartão
 
+## Funções:
+#### cardValidator()
+
 # Metodos para usar a biblioteca:
 
 Exemplo de uso:
@@ -8,7 +11,7 @@ Exemplo de uso:
 ```
 $node
 > let validator = require("thali-validator")
-> validator(4083952015263); //'true'
+> validator.cardValidator(4083952015263); //'true'
 ```
 
 ## versão 1.0.0
