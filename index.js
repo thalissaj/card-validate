@@ -34,9 +34,5 @@ const isValidCard = function (cardNum){
     result += reverseNum[i];
   }
   var resultInt = parseInt(result);
-  if(resultInt % 10 === 0){
-    return true;
-  }else{
-    return false;
-  }
+ return resultInt % 10 === 0;
 }
